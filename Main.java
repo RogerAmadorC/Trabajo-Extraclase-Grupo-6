@@ -19,7 +19,7 @@ public class Main {
         System.out.println("Ingrese su nombre: ");
         String nombre = sc.nextLine();
         
-        System.out.println("Ingrese su appellido: ");
+        System.out.println("Ingrese su apellido: ");
         String apellido = sc.nextLine();
         
         System.out.println("Ingrese su número de teléfono: ");
@@ -32,9 +32,9 @@ public class Main {
         String direccion = sc.nextLine();
         
         System.out.println("-INFORMACIÓN DEL USUARIO-");
-        System.out.println("Nombre del usuario: " + nombre);
-        System.out.println("Apellido del usuario: " + apellido);
-        System.out.println("Némero Telefonico: " + telefono);
+        System.out.println("Nombre: " + nombre);
+        System.out.println("Apellido: " + apellido);
+        System.out.println("Número Telefonico: " + telefono);
         System.out.println("Email:" + email);
         System.out.println("Dirección: " + direccion);
         
