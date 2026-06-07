@@ -26,3 +26,6 @@ Francisco Arce se encargó del planteo de los issues, y la creación e implement
 * Pull Requests
 * Issues
 * Capturas
+
+#### Prueba Conflicto Merge
+ASDF
