@@ -1,6 +1,6 @@
 # Trabajo-Extraclase-Grupo-6
 ## Integrantes
-* Francisco Arce
+* Francisco Arce Alvarez
 * Roger 
 
 ## Descripción del programa
@@ -11,7 +11,7 @@ Se utilizó Apache NetBeans IDE 30 para compilar y ejecutar el programa, el cual
 * Nombre
 * Apellido
 * Email
-* Telefono
+* Teléfono
 * Dirección
 Luego ejecuta una función de suma de números enteros hasta que el usuario decida detener el programa, el programa pide:
 * Primer número
@@ -26,13 +26,3 @@ Francisco Arce se encargó del planteo de los issues, y la creación e implement
 * Pull Requests
 * Issues
 * Capturas
-
-
-
-* Creacion de main
-* Agregar issues
-* Agregar funcion
-
-
-  Descripción breve, cómo compilar/ejecutar, roles del equipo (quién hizo qué), y evidencias del flujo (enlaces a PRs, issues, y capturas).
-
