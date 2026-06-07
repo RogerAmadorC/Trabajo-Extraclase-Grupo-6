@@ -28,4 +28,4 @@ Francisco Arce se encargó del planteo de los issues, y la creación e implement
 * Capturas
 
 #### Prueba Conflicto Merge
-ÑLKJ
+ASDF
