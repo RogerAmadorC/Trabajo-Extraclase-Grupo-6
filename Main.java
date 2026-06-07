@@ -16,25 +16,25 @@ public class Main {
         
         Scanner sc = new Scanner(System.in);
         
-        System.out.println("Ingrese nombre ");
+        System.out.println("Ingrese su nombre: ");
         String nombre = sc.nextLine();
         
-        System.out.println("Ingrese appellido ");
+        System.out.println("Ingrese su apellido: ");
         String apellido = sc.nextLine();
         
-        System.out.println("Ingrese su numero detelefono ");
+        System.out.println("Ingrese su número de teléfono: ");
         String telefono = sc.nextLine();
         
-        System.out.println("Ingrese email ");
+        System.out.println("Ingrese su email: ");
         String email = sc.nextLine();
         
-        System.out.println("Ingrese su direccion: ");
+        System.out.println("Ingrese su dirección: ");
         String direccion = sc.nextLine();
         
         System.out.println("-INFORMACIÓN DEL USUARIO-");
-        System.out.println("Nombre del usuario: " + nombre);
-        System.out.println("Apellido del usuario: " + apellido);
-        System.out.println("Numero Telefonico: " + telefono);
+        System.out.println("Nombre: " + nombre);
+        System.out.println("Apellido: " + apellido);
+        System.out.println("Número Telefonico: " + telefono);
         System.out.println("Email:" + email);
         System.out.println("Dirección: " + direccion);
         
