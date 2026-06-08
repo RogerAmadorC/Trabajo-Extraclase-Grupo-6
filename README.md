@@ -1,12 +1,12 @@
 # Trabajo-Extraclase-Grupo-6
 ## Integrantes
 * Francisco Arce Alvarez
-* Roger 
+* Roger Ezequiel Amador Carrillo
 
 ## Descripción del programa
 El programa solicita al usuario la información acerca de ciertos datos y luego se le pide al usuario realizar sumas de números enteros hasta que decida detener el programa.
 
-### Método para compilar y ejercutar el programa
+### Método para compilar y ejecutar el programa
 Se utilizó Apache NetBeans IDE 30 para compilar y ejecutar el programa, el cual al ser ejecutado solicita la siguiente información:
 * Nombre
 * Apellido
@@ -26,6 +26,11 @@ Francisco Arce se encargó del planteo de los issues, y la creación e implement
 * Pull Requests
 * Issues
 * Capturas
+
+## Tecnologías Utilizadas
+* Java
+* Github
+* Git
 
 #### Prueba Conflicto Merge
 ASDF
